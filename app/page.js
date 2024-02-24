@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <>
       <Navbar></Navbar>
-      <About />
       <Banner></Banner>
+      <About />
     </>
   );
 }
